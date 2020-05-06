@@ -7,7 +7,13 @@ This is the new text I am typing from my Windows machine.
 here is lakshay
 today's lecture are all about advance git
 
+<<<<<<< HEAD
 
 
 
 hi i am uday
+=======
+Hello, this is Rahul Choudhary. 
+
+The lecture is going to be ending soon :)
+>>>>>>> 01abd07c17aa99b62265e91cdda087878ce14103
