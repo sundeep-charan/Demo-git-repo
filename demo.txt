@@ -16,4 +16,8 @@ hi i am uday
 Hello, this is Rahul Choudhary. 
 
 The lecture is going to be ending soon :)
+<<<<<<< HEAD
 >>>>>>> 01abd07c17aa99b62265e91cdda087878ce14103
+=======
+Thanks For Todays Lecture.. n Hi everyone.. 
+>>>>>>> 3757117216526d81fb34a2f0ccca11da31a55eb0
