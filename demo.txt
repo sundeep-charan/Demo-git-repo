@@ -3,6 +3,9 @@ Hello world
 
 This is the new text I am typing from my Windows machine.
 
+hi this is vinayak trying out updating some changes
+
+
 
 here is lakshay
 today's lecture are all about advance git
