@@ -20,4 +20,8 @@ Thanks For Todays Lecture.. n Hi everyone..
 
 hi, Rahul Ranjan here, just adding few words.
 
+<<<<<<< HEAD
 hi this is piyush here.
+=======
+Hello World, Are you doing well?
+>>>>>>> dd1f6de4ecf53c283a7605bbf5822b70fba214b7
