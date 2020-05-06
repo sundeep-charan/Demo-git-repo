@@ -22,8 +22,5 @@ hi, Rahul Ranjan here, just adding few words.
 
 Done with GitHub workflow setup on my system, peace out.
 
-<<<<<<< HEAD
 hi this is piyush here.
-=======
 Hello World, Are you doing well?
->>>>>>> dd1f6de4ecf53c283a7605bbf5822b70fba214b7
