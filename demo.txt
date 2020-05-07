@@ -29,3 +29,13 @@ Hello World, Are you doing well?
 
 Hi Sumit here...It's my turn!
 Hello this is Hardik
+
+
+// Akash Dutta
+
+function hello (name) {
+    return `Hello from the server side ${name}!!`
+};
+
+let result = hello('Akash');
+console.log(result);
