@@ -3,7 +3,28 @@ Hello world
 
 This is the new text I am typing from my Windows machine.
 
+hi this is vinayak trying out updating some changes
+making one more change
+
 
 here is lakshay
 today's lecture are all about advance git
-Hardik here
+
+
+hi i am uday
+Hello, this is Rahul Choudhary. 
+
+The lecture is going to be ending soon :)
+Thanks For Todays Lecture.. n Hi everyone.. 
+
+
+hi, Rahul Ranjan here, just adding few words.
+sir has cleared my dought of "what is head-->master?"
+
+Done with GitHub workflow setup on my system, peace out.
+
+hi this is piyush here.
+Hello World, Are you doing well?
+
+Hi Sumit here...It's my turn!
+Hello this is Hardik
