@@ -40,4 +40,4 @@ function hello (name) {
 let result = hello('Akash');
 console.log(result);
 
-thank you sir for this much personal time
+thank you so much sir for helping
