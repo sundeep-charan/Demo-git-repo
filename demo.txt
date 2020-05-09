@@ -16,8 +16,7 @@ Hello, this is Rahul Choudhary.
 
 The lecture is going to be ending soon :)
 Thanks For Todays Lecture.. n Hi everyone.. 
-hi this side avlokita excited for learning challenging coded.
-
+hi this side avlokita excited for learning challenging coded
 
 hi, Rahul Ranjan here, just adding few words.
 sir has cleared my dought of "what is head-->master?"
@@ -43,3 +42,4 @@ console.log(result);
 thank you so much sir for helping
 hello Everyone Kunal here.
 Lets Code along!
+hello this is ramya.
